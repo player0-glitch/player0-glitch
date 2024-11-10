@@ -30,7 +30,6 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=player0-glitch&icon=8&color=3)](https://visitcount.itsvg.in)
-
+[![](https://visitcount.itsvg.in/api?id=player0-glitch&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
