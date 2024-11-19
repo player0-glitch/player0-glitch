@@ -3,7 +3,7 @@
 🔭Currently, I'm trying to sharpen mathematics (linear algebra and calculus) and programming by implementing project based learning, where I'm challenging myself to think differently and adapt to new patterns.
 <br>\_ Perfect day: Soft music, delicious food, and working on an engaging project amidst soothing rain sounds or birds chipping.
 <br>\_ Strengths: Persistent problem solver, determined, and eager to learn.
-<br>\_ Weaknesses: Impatience and perfectionism.
+<br>\_ Weaknesses: Can tend to be a perfectionist 
 <br>💬I'm passionate about personal growth and self-improvement, currently upskilling and pursuing higher education to expand my skill set. My ultimate goal is to make a meaningful impact on people's lives, preferably through innovative startups or developing software solutions that simplify day-to-day experiences. I'm fascinated by the potential of technology to transform lives.
 <br>📫 How to reach me... uhm [email me](mailto:mokhaditlhalefo@gmail.com)
 <br>🚀Fun Fact: Young Thug is home🐍
