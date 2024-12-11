@@ -10,7 +10,7 @@
 
 ## 🌐 Socials:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tlhalefo-mokhadi-445b05226)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tlhalefo-mokhadi-445b05226/)
 [![Gmail Badge](https://img.shields.io/badge/mokhaditlhalefo@gmail.com-white.svg?logo=gmail)](mokhaditlhalefo@gmail.com)
 
 # 💻 Tech Stack:
